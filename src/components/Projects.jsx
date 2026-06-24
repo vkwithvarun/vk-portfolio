@@ -15,7 +15,7 @@ const projects = [
       "Designed global exception handling for robust error management",
       "Tested all APIs using Postman with complete request-response validation",
     ],
-    github: "https://github.com",
+    github: "https://github.com/vkwithvarun/Blog_WebSite",
     badge: "Backend",
     badgeColor: "bg-blue-600",
   },
