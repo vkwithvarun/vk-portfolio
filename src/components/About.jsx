@@ -2,7 +2,7 @@ import SectionTitle from "./SectionTitle.jsx";
 
 const stats = [
   { value: "15+", label: "REST APIs Built" },
-  { value: "2",   label: "Full-Stack Projects" },
+  { value: "3",   label: "Projects Built" },      // updated
   { value: "2+",  label: "Years of Coding" },
   { value: "2",   label: "Certifications" },
 ];
@@ -20,16 +20,23 @@ export default function About() {
           <div>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-5 text-base">
               I'm an MCA graduate from{" "}
-              <span className="font-semibold text-gray-800 dark:text-white">Nitte Meenakshi Institute of Technology, Bengaluru</span>,
-              with a strong focus on Java backend development. I specialize in building RESTful APIs
-              using Spring Boot and have hands-on experience with database design, JWT authentication,
-              and microservice architecture.
+              <span className="font-semibold text-gray-800 dark:text-white">
+                Nitte Meenakshi Institute of Technology, Bengaluru
+              </span>
+              , specializing in Java backend development. I build production-style systems
+              using Spring Boot, Spring Cloud microservices, RabbitMQ event-driven architecture,
+              and OAuth2 security — not just basic REST APIs.
             </p>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-6 text-base">
-              Previously worked as a <span className="font-semibold text-blue-600 dark:text-blue-400">Process Associate</span> at
-              Han Digital Solution on a 2-month contract. I actively develop projects and am seeking a full-time{" "}
-              <span className="font-semibold text-gray-800 dark:text-white">Java Backend Developer</span> role
-              where I can build and scale real-world systems.
+              I actively build full-stack projects combining{" "}
+              <span className="font-semibold text-gray-800 dark:text-white">
+                Spring Cloud, MongoDB, PostgreSQL, RabbitMQ, and React
+              </span>{" "}
+              and am seeking a full-time{" "}
+              <span className="font-semibold text-gray-800 dark:text-white">
+                Java Backend Developer
+              </span>{" "}
+              role where I can build and scale real-world systems.
             </p>
 
             {/* Key traits */}

@@ -75,7 +75,7 @@ export default function Hero() {
             className="px-6 py-3 border-2 border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 rounded-lg font-semibold hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-colors">
             View Projects
           </button>
-          <a href="https://github.com" target="_blank" rel="noreferrer"
+          <a href="https://github.com/vkwithvarun" target="_blank" rel="noreferrer"
             className="px-6 py-3 border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 rounded-lg font-semibold hover:border-blue-500 dark:hover:border-blue-400 transition-colors">
             GitHub
           </a>
